@@ -26,7 +26,7 @@
     <snapshotRepository>
         <id>artifactory</id>
         
-        <url>http://35.153.33.242:8082/artifactory/libs-snapshot-local</url>
+        <url>http://35.153.33.242:8082/artifactory/sample-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
   
